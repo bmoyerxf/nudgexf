@@ -35,6 +35,12 @@
             "requiredMinimumOSVersion": "12.6.8",
             "requiredInstallationDate": "2023-10-12T00:00:00Z",
             "targetedOSVersionsRule": "10.15"
+        },
+        {
+          "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
+            "requiredMinimumOSVersion": "13.5.2",
+            "requiredInstallationDate": "2023-10-12T00:00:00Z",
+            "targetedOSVersionsRule": "12.7"
         }
   ],
   "userExperience": {
