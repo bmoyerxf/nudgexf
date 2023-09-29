@@ -7,7 +7,7 @@
     "asynchronousSoftwareUpdate": true,
     "attemptToFetchMajorUpgrade": true,
     "enforceMinorUpdates": true
-    "blockedApplicationBundleIDs": "us.zoom.xos"
+    "blockedApplicationBundleIDs":
   },
   "osVersionRequirements": [
     {
