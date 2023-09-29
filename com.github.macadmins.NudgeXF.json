@@ -69,7 +69,7 @@
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes from Xforte",
         "mainContentSubHeader": "Updates can take around 10 to 45 minutes to complete.",
-        "mainContentText": "Please save any work and close all applications before updating.\n\nIf you do not update by the due date, you will effectively be locked out of your system until you complete the update.\n\nWhile the update has been rigorously tested it's advised you do this as soon as possible to avoid any downtime, as well as help us find any issues early on with the update.\n\nTo begin the update, simply click on the Update Device button and follow the prompts.\n\n"\n\nIf asked to enter a username and password, Please enter your Mac's username and pasword.,
+        "mainContentText": "Please save any work and close all applications before updating.\n\nIf you do not update by the due date, you will effectively be locked out of your system until you complete the update.\n\nWhile the update has been rigorously tested it's advised you do this as soon as possible to avoid any downtime, as well as help us find any issues early on with the update.\n\nTo begin the update, simply click on the Update Device button and follow the prompts.\n\nIf asked to enter a username and password, Please enter your Mac's username and pasword.",
         "mainHeader": "Your device requires a macOS Security Update",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "Not Now",
