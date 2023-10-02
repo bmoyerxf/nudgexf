@@ -31,10 +31,6 @@
             "requiredInstallationDate": "2023-10-12T00:00:00Z",
             "targetedOSVersionsRule": [
           "12.0",
-          "12.0.1",
-          "12.1",
-          "12.2",
-          "12.2.1"
         ],
         },
         {
