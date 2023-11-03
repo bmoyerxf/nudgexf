@@ -24,7 +24,7 @@
          "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
             "requiredMinimumOSVersion": "13.6.1",
             "requiredInstallationDate": "2023-11-17T00:00:00Z",
-            "targetedOSVersionsRule": "12.7"
+            "targetedOSVersionsRule": "13"
         },
         {
         
