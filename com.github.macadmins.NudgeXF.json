@@ -18,19 +18,19 @@
         }
       ],
       "requiredInstallationDate": "2023-11-30T00:00:01Z",
-      "requiredMinimumOSVersion": "13.6.2",
+      "requiredMinimumOSVersion": "13.6.1",
       "targetedOSVersionsRule": "default"
     },
           {
           "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
-             "requiredMinimumOSVersion": "13.6.2",
+             "requiredMinimumOSVersion": "13.6.1",
              "requiredInstallationDate": "2023-11-30T00:00:00Z",
               "targetedOSVersionsRule": "13"
       
         },
         {
           "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-            "requiredMinimumOSVersion": "13.6.2",
+            "requiredMinimumOSVersion": "13.6.1",
             "requiredInstallationDate": "2023-11-30T00:00:00Z",
             "targetedOSVersionsRule": "11"
         },
